@@ -1,0 +1,191 @@
+#header{
+    width: 80%;
+    margin-right:auto;
+    margin-left:auto;
+    border: solid 1px;
+    height: 1000px;
+
+
+}
+
+
+#topP{
+    border: lightblue 10px double;
+    
+}
+
+
+#eur{
+    padding-top:10px;
+    padding-left:50px;
+    height: 50px;
+    display: inline-block;
+    padding-right:10px
+
+}
+
+.cheapC{
+    text-decoration:underline ;
+    color:blue;    
+    font-style: italic;
+    margin:0 auto;
+    
+}
+
+#currency{
+    padding-top:20px;
+    display: inline-block;
+}
+
+#bank{
+    padding-top:15px;
+    height: 40px;
+    padding-left:20px;
+}
+
+#money{
+    text-align: right;
+    margin-top: -30px;
+    padding-right:25px;
+}
+
+
+.lines{
+
+   background-color: black;
+   height: 1px;
+}
+
+
+
+#rightsideL{
+    list-style: none;
+    margin-top: 6%;
+    max-width: 100%;
+    
+}
+
+.leftLi{
+    border: solid 1px;
+    border-radius: 5px;
+    width: 10%;
+    margin-top: 2%;
+    padding: 1%;
+    text-align: right;
+    
+}
+
+
+
+.imgsize{
+
+    height: 33px;
+    
+}
+
+img{
+    padding-right: 3px;
+    
+}
+
+
+#wlcm{
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    border: 2px solid black;
+    height: 692px; 
+
+}
+
+#wlcmL{
+    width: 637px;
+    background-color: black;
+    height: 1px;
+    margin-top: 62px;
+}
+
+#bodyText{
+    position: absolute;
+    right: 503px;
+    text-align:center;
+    overflow: hidden;
+}
+
+#rightside{
+
+    position: absolute;
+    right: 201px;
+    width: 10%;
+    margin-top: 2%;
+    padding: 1%;
+    text-align: center;    
+}
+
+#leftsideL{
+
+    list-style: none;
+    margin-top: -75px;
+    max-width: 100%;
+}
+
+.rightLi{
+    border: solid 1px;
+    border-radius: 10px;
+    width: 119px;
+    margin-bottom: 50px;
+    padding: 10px;
+    text-align: center;
+    padding-bottom: 15px;
+    
+}
+
+#topRight1{
+
+    border: solid 1px;
+    border-radius: 3px;
+}
+
+#footer{
+    border:solid 1px;
+    position: absolute;
+    bottom: -213px;
+    width: 1065px;
+}
+
+
+#topRight2{
+
+    border: solid 1px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+#imgsize1{
+
+    height: 80px;
+}
+
+input{
+    margin-top:5px ;
+    width: 90px;
+}
+
+#links{
+    /* border:solid 1px black;
+    border-radius: 3px; */
+    position: absolute;
+    padding:30px;
+    bottom: -354px;
+    margin-left: 140px;
+    display: inline-block;
+}
+
+a{
+    border:solid 1px black;
+    border-radius: 3px;
+    padding: 54px;
+    margin-right: 100px;
+    
+}
